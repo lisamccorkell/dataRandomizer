@@ -14,8 +14,7 @@ def argparse():
         required=True
     )
     parser.add_arguement(
-        "filetype",
-        type=str,
+        '--filetype',
         options=['csv', 'excel'],
         required=True
     )
