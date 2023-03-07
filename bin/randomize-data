@@ -1,0 +1,4 @@
+import dataRandomizer
+
+if __name__ == "__main__":
+    dataRandomizer.main()
